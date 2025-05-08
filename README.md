@@ -46,7 +46,7 @@ Our system addresses the challenge of computing **fine-grained aspect-based repu
 ### 📊 Fine-Tuning & Evaluation Datasets
 
 #### 1️⃣ Aspect-Based Sentiment Analysis (ABSA)
-- **SemEval-2014 Task 4** – Laptops & Restaurants  
+- **SemEval-2014 Task 4** – Laptops & Restaurants  [Download](https://alt.qcri.org/semeval2014/task4/)
 - **Custom-labeled reviews from X (Twitter)** – Annotated aspects across multiple domains
 
 #### 2️⃣ Sentiment Regression
