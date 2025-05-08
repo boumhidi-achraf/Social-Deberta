@@ -5,18 +5,18 @@
 This repository contains the datasets, model training details, and evaluation resources used in the research paper:
 
 > **Social-DeBERTa: Leveraging Domain-Adaptive Pretraining for Rapid Aspect-Based Reputation Generation Across X Platform Reviews**  
-> _(Preprint submitted to Nuclear Physics B, May 6, 2025)_
+> _(submitted to Knowledge-Based Systems)_
 
-Our system addresses the challenge of computing **fine-grained aspect-based reputation scores** from informal, sarcastic, and noisy social media reviews using domain-adaptive pretrained models.
+Our system addresses the challenge of computing **fine-grained aspect-based reputation scores** from informal, sarcastic, and noisy social media (X platform) reviews using domain-adaptive pretrained models.
 
 ---
 
 ## 🔍 Core Features
 
 - 🧾 Domain-adaptive transformer (Social-DeBERTa) trained on 220M+ social and review texts  
-- 🧠 Fine-grained sentiment regression (0–10 scale) per aspect  
-- 🤖 Sarcasm detection pipeline using emoji mismatch, sentiment deviation, and human-mimicking logic  
-- ⚠️ Deceptive review filtering based on linguistic patterns  
+- 🧠 Fine-grained sentiment regression (0–10 scale) per aspect
+- ⚠️ Deceptive review filtering based on linguistic patterns
+- 🤖 Sarcasm detection pipeline using emoji mismatch, sentiment deviation, and human-mimicking logic    
 - 📣 Influencer-aware score adjustment (based on likes/reposts)  
 - 📊 Real-time interactive visualization with **SentiGaze**
 
