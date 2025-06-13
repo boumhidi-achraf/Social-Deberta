@@ -60,7 +60,7 @@ These datasets are used for supervised fine-tuning and evaluation across the cor
 
 ### 📌 Sarcasm Detection Dataset
 
-* **Custom-Labeled Sarcasm Dataset (1,000 sarcastic reviews)**
+* **Custom-Labeled Sarcasm Dataset (2,000 reviews)**
   * **Description**: Manually annotated reviews containing sarcasm indicators such as exaggeration, sentiment-emotion mismatches, emojis, interjections ("LOL", "smh"), and conflicting sentiment cues.
   * **Purpose**: Training and evaluating the sarcasm detection capabilities of Social-DeBERTa.
 
