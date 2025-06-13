@@ -55,7 +55,7 @@ These datasets are used for supervised fine-tuning and evaluation across the cor
 
   **📥 Access the Dataset:**  
   To request access, please fill out the following form:  
-  👉 [Access Request Form (Google Form)]([https://forms.gle/YOUR_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSeNj3r0inFKJiHLKd_GuljfAr8gl5Lf8O8MIY3-WiWirWC4Dg/viewform?usp=header))
+  👉 [Access Request Form (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSeNj3r0inFKJiHLKd_GuljfAr8gl5Lf8O8MIY3-WiWirWC4Dg/viewform?usp=header)
 ---
 
 ### 📌 Sarcasm Detection Dataset
