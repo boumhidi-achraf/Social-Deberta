@@ -71,6 +71,7 @@ These datasets are used for supervised fine-tuning and evaluation across the cor
 * **Manually Collected Dataset**
   * **Description**: Reviews labeled as `Legitimate (0)` or `Deceptive (1)` to identify misleading or promotional content.
   * **Purpose**: Fine-tuning the deception detection module within the pipeline for effective spam and deceptive review filtering.
+  * **Dataset Link**: [Deceptive reviews Dataset](https://github.com/boumhidi-achraf/Social-Deberta/tree/main/Datasets/Deceptive_reviews)
 
 ---
 
